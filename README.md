@@ -4,8 +4,8 @@ This repository contains folders with code to reproduce papers I authored. The c
 
 The papers included here are:
 
-- TBC
-- TBC
-- TBC
+- Del Bove, A., & Veneziano, A. (2022). A Generalised Neural Network Model to Estimate Sex from Cranial Metric Traits: A Robust Training and Testing Approach. Applied Sciences, 12(18), 9285. https://doi.org/10.3390/app12189285.
+- ...
+- ...
 
 For additional information, please contact me at veneziano.alessio@gmail.com.
