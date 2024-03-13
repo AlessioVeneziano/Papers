@@ -1,0 +1,4 @@
+The climate data is too big and could not be uploaded on GitHub.
+The climate data consists of three .tif images (one for each climate variable used in the analysis).
+The three variables are BIO4, BIO7 and BIO15 of the WorldClim database and can be downloaded at www.worldclim.org, with resolution at 2.5 minutes.
+In R, they can be obtained through the function 'worldclim_global' in the package 'geodata'.
