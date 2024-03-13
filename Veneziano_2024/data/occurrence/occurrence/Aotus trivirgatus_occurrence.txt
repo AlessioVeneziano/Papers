@@ -1,0 +1,17 @@
+decimalLongitude	decimalLatitude	country	countryCode	basisOfRecord	year
+-60.947669	-2.628674	Brazil	BR	HUMAN_OBSERVATION	2017
+-72.8	-8.566667	Brazil	BR	PRESERVED_SPECIMEN	1992
+-72.85	-8.6	Brazil	BR	PRESERVED_SPECIMEN	1992
+-70.85	-6.75	Brazil	BR	PRESERVED_SPECIMEN	1991
+-72.17	8.17	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1968
+-72.63	9.2	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1968
+-72.7	9.18	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1968
+-65.25	2.43	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1967
+-65.23	2.45	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1967
+-66.22	5.3	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1967
+-66.27	5.13	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1967
+-67.6	5.55	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1967
+-65.22	2.5	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1966
+-70.67	9.53	Venezuela (Bolivarian Republic of)	VE	PRESERVED_SPECIMEN	1965
+-55.13333	-2.83333	Brazil	BR	PRESERVED_SPECIMEN	1932
+-63.48	-0.85	Brazil	BR	PRESERVED_SPECIMEN	NA
